@@ -7,5 +7,8 @@ I know the following languages (not ordered according to proficiency):
 - Java
 - C++
   
+# My proudest projects
+Check my pinned repositories!
+
 # My stats, for anyone who wants it<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouTubeATP)](https://github.com/anuraghazra/github-readme-stats)
