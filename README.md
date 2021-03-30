@@ -10,5 +10,5 @@ I know the following languages (not ordered according to proficiency):
 # My proudest projects
 Check my pinned repositories!<br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouTubeATP)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouTubeATP)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouTubeATP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouTubeATP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
